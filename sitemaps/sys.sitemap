@@ -1,0 +1,6 @@
+sitemap sys label="System"
+{
+	Frame label="Z-Wave" {
+		Text item=SYS_ZWave_StartFrames
+	}
+}

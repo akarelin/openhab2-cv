@@ -1,0 +1,1 @@
+Number SYS_ZWave_StartFrames "Start Frames [%d]" {channel="zwave:serial_zstick:160fd7f20ea:serial_sof"}
