@@ -1,0 +1,8 @@
+sitemap ecobee label="Ecobee"
+{
+	Frame label="Info" {
+		Text item=weather_timestamp
+		Text item=weather_weatherStation 
+		Text item=weather_forecasts0_weatherSymbol 
+	}
+}
